@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taxsavingtips.net/blog-taxsavingtips/sitemap.xml
